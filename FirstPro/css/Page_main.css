@@ -38,3 +38,9 @@ h3,h4,h5{
 ul.no-style{
     list-style-type: none;
 }
+.nav{
+    position: fixed;
+    top: 0;
+    background: #333333;
+    z-index: 1;
+}
